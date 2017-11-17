@@ -1,0 +1,2 @@
+# LombokExtensionMethods
+Lombok ExtensionMethod examples
